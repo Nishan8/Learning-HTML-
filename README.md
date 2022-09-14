@@ -1,2 +1,2 @@
-# Learning-HTML-
-HTML and CSS 
+# Learning HTML
+HTML & CSS 
