@@ -5,7 +5,7 @@ header {
 
 body {
     border: 1px solid rgb(0, 17, 255);
-    background-image: url(https://w3programmers.com/bangla/wp-content/uploads/2018/12/css-backgrounds.jpg);
+    background-image: url(https://wallpapercave.com/uwp/uwp1555001.png);
 }
 
 nav {
@@ -33,13 +33,6 @@ article {
 }
 
 footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    color: greenyellow;
-    text-align: center;
-    background: rgb(0, 17, 255);
 }
 
 div {
