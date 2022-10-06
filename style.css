@@ -1,0 +1,47 @@
+header {
+    //border: 2px solid white;
+    padding: 15px;
+}
+
+body {
+    border: 1px solid rgb(0, 17, 255);
+    background-image: url(https://w3programmers.com/bangla/wp-content/uploads/2018/12/css-backgrounds.jpg);
+}
+
+nav {
+
+}
+
+menu {
+    width: 25%;
+}
+
+main {
+    width: 50%;
+}
+
+section {
+
+}
+
+aside {
+    width: 25%;
+}
+
+article {
+
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: greenyellow;
+    text-align: center;
+    background: rgb(0, 17, 255);
+}
+
+div {
+    border: 2px thick dotted white
+}
